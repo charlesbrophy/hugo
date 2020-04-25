@@ -27,6 +27,7 @@ theme = "hamburg"
                 name = "About"
                 identifier = "about"
                 url = "pages/about"
+            [[languages.en.menu.main]]
                 name = "Contact"
                 identifier = "contact"
                 url = "pages/contact"
