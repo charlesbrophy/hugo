@@ -10,5 +10,5 @@ headless: true
 - [Comintern]({{< relref "/docs/shortcodes/buttons" >}})
   - [Test]({{< relref "/docs/shortcodes/buttons" >}})
 - [Soviet Union]({{< relref "/docs/russia" >}})
-- [India]({{< relref "/docs/shortcodes/expand" >}})
+- [India]({{< relref "/docs/india" >}})
 <br />
