@@ -1,3 +1,3 @@
 ---
-bookCollapseSection: true
+bookFlatSection: true
 ---

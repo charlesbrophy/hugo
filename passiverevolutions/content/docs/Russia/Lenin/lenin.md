@@ -4,11 +4,6 @@ bookFlatSection: true
 title: "The Socialist Revolution and the Right of Nations to Self-Determination (1916)"
 ---
 
-Lenin: The Socialist Revolution and the Right of Nations to Self-Determination    
-
-[V. I.](../../1916/feb/29b.htm "Wilhelm Kolb and George Plekhanov")   [Lenin](../../1916/mar/x01.htm "Letter From the Committee of Organisations Abroad to the Sections of the R.S.D.L.P.")
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ### The Socialist Revolution and the Right of Nations to Self-Determination
 
 ### THESES
