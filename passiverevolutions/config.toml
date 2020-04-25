@@ -1,4 +1,4 @@
-baseurl = "http://your-site.com"
+baseurl = "https://peaceful-chandrasekhar-09c05f.netlify.app/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = "true"
 title = "Your site title"
