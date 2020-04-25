@@ -1,4 +1,4 @@
-baseURL = "http://passiverevolutions.pages/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Passive Revolutions"
 theme = "Academia-hugo-master"
