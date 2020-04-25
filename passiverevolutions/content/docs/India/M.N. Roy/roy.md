@@ -1,12 +1,8 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "M.N. Roy"
+title: "On Patriotism (1923)"
 ---
-On Patriotism
-
-MN Roy
-
 On Patriotism
 =============
 
@@ -39,8 +35,3 @@ Spiritual patriotism tried to measure itself against a revolutionary situation, 
 Yours for a decent and speedy burial for our spiritual Swarajists.
 
 _June 12, 1923._
-
-* * *
-
-#### [MN Roy Internet Archive](../../index.htm)  |  [Marxism and Anti-Imperialism in India](../../../../subject/india/index.htm)  
-[Marxists Internet Archive](../../../../index.htm)
