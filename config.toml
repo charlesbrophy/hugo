@@ -1,7 +1,7 @@
 baseURL = "http://passiverevolutions.pages/"
 languageCode = "en-us"
 title = "Passive Revolutions"
-theme = "ananke"
+theme = "Academia-hugo-master"
 
 [Params]
     mainSections = ["post"]
