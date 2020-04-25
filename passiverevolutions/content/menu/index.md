@@ -9,6 +9,7 @@ headless: true
 
 - **Sources**
 - [Comintern]({{< relref "/docs/shortcodes/buttons" >}})
+  - [[Comintern]({{< relref "/docs/shortcodes/buttons" >}})]
 - [Soviet Union]({{< relref "/docs/shortcodes/columns" >}})
 - [India]({{< relref "/docs/shortcodes/expand" >}})
 
