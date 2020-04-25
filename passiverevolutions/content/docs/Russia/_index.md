@@ -5,12 +5,17 @@ title: "Theses on the National Question"
 ---
 **Theses on the National Question**[^1]
 
+
+{{< hint info >}}
+
 Written: Written in June 1913
 Published: First published in 1925 in the Lenin Miscellany III. Published according to the manuscript.
 Source: Lenin Collected Works, Progress Publishers, 1977, Moscow, Volume 19, pages 243-251.
 Translated: The Late George Hanna
 Transcription\Markup: R. Cymbala
 Public Domain: Lenin Internet Archive (2004). You may freely copy, distribute, display and perform this work; as well as make derivative and commercial works. Please credit “Marxists Internet Archive” as your source. • README
+
+{{< /hint >}}
 
 1. The article of our programme (on the self-determination of nations) cannot be interpreted to mean anything but political self-determination, i.e., the right to secede and form a separate state.
 
