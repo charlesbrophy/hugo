@@ -3,7 +3,7 @@ weight: 1
 bookFlatSection: true
 title: "Theses on the National Question"
 ---
-Theses on the National Question[1]
+**Theses on the National Question**[^1]
 
 Written: Written in June 1913
 Published: First published in 1925 in the Lenin Miscellany III. Published according to the manuscript.
@@ -97,7 +97,7 @@ Compromise decisions have been broken by the very people who introduced them aga
 ε) The Jews.
 Notes
 
-[1] These theses were written by Lenin for his lectures on the national question delivered on July 9, 10, 11 and 13 (N. 5.), 1913 in the Swiss towns of Zurich, Geneva, Lausanne and Berne.
+[^1]: These theses were written by Lenin for his lectures on the national question delivered on July 9, 10, 11 and 13 (N. 5.), 1913 in the Swiss towns of Zurich, Geneva, Lausanne and Berne.
 
 [2] The decisions of the Prague Conference (1912) called the relations that the national Social-Democratic organisations had with the R.S.D.L.P. from 1907 to 1911 “federation of the worst type”. Although the Social-Democratic organisations of Poland, Lithuania and the Latvian Area, and also the Bund, belonged to the R.S.D.L.P., they actually held themselves aloof. Their representatives did not take part in guiding all-Russian Party work; directly or indirectly they promoted the anti-Party activities of the liquidators. (See Vol. 17, pp. 464–65 and Vol. 18, pp. 411–12.)
 
