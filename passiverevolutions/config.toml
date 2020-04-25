@@ -1,7 +1,7 @@
 baseurl = "https://peaceful-chandrasekhar-09c05f.netlify.app/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = "true"
-title = "Your site title"
+title = "Passive Revolutions"
 theme = "hamburg"
 
 [params]
@@ -11,7 +11,7 @@ theme = "hamburg"
     customCSS = ['hamburg.css']
     # Show this very user-friendly and absolutely not annoying GDPR notice at the bottom of the page
     ShowGDPRNotice = true
-	subtitle = "The great example site of the hugo-hamburg-theme"
+	subtitle = "History politics & Southeast Asia"
 	# Since 0.57.0 there's the concept of "main sections". The files for the section "posts" are in "./content/posts/".
 	mainSections = ["posts"]
 
@@ -19,11 +19,14 @@ theme = "hamburg"
     [languages.en]
         languageCode = "en"
         languageName = "English"
-        subtitle = "A simple subtitle"
+        subtitle = "History politics & Southeast Asia"
         # Copyright notice. This is displayer in the footer.
-        copyright = "&copy; some license"
+        copyright = "&copy; 2020"
         [languages.en.menu]
             [[languages.en.menu.main]]
                 name = "About"
                 identifier = "about"
                 url = "pages/about"
+                name = "Contact"
+                identifier = "contact"
+                url = "pages/contact"
