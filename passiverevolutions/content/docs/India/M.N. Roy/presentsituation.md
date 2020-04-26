@@ -5,7 +5,6 @@ title: "India in Transition (1922)"
 ---
 
 Chapter 5: Present Situation-Review and Perspective
-
 =============
 
 Source:
