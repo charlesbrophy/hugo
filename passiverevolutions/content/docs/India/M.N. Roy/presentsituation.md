@@ -3,9 +3,8 @@ weight: 1
 bookFlatSection: true
 title: "India in Transition (1922)"
 ---
-##Present Situation-Review and Perspective.
 
-###Present Situation-Review and Perspective.
+### Present Situation-Review and Perspective.
 
 Strong cross-currents have always been the feature of the political movement of modern India. In the last three years, this feature has becomes more and more remarkable in proportion as the nationalist movement acquired strength and assumed dimensions positively alarming to the British authorities. It is since 1918 that the movement for national liberation began to spread beyond the narrow circle of the middle-class and affect the masses of the people. The growing disaffection of the people at large has added potentiality to the nationalist movement. But the very awakening of the masses, which has enabled the political movement of the bourgeoisie to outgrow the stage of agitation and propaganda and enter into an active fight, has at the same time brought into evidence another cross-current which threatens  to turn the tide in the near future. It marks the initiation of a triangular fight, in which class anatagonism and the national struggle will be intensified side by side. The development of the bourgeoisie stiffens the national struggle as well as intensifies the class-cleavage by creating a proletarian class. This process of class-readjustment has been going on in India within the last few years and the political movement must be affected by it.
 
