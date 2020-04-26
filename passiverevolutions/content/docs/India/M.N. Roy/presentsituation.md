@@ -1,7 +1,7 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "India in Transition (1927)"
+title: "India in Transition (1922)"
 ---
 ##Present Situation-Review and Perspective.
 
